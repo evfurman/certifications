@@ -37,3 +37,9 @@ The AWS Certified SysOps Administrator – Associate exam validates technical ex
 *Estimating AWS usage costs and identifying operational cost-control mechanisms.  
 
 [https://aws.amazon.com/certification/certified-sysops-admin-associate/](https://aws.amazon.com/certification/certified-sysops-admin-associate/)  
+
+## ScrumStudy Scrum Master Certified  
+
+Scrum Master Certified (SMC™) professionals are facilitators who ensure that the Scrum Team is provided with an environment conducive to completing the project successfully. The Scrum Master guides, facilitiates, and teaches Scrum practices to everyone involved in the project; clears impediments for the team; and, ensures that Scrum processes are being followed.  
+
+[https://www.scrumstudy.com/certification/scrum-master-certification](https://www.scrumstudy.com/certification/scrum-master-certification)
