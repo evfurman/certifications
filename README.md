@@ -1,5 +1,3 @@
-**The following steps are automated as part of a Gitlab-CI pipeline, but you can also run them manually.**
-
 ## AWS Certified DevOps Engineer - Professional
 
 The AWS Certified DevOps Engineer – Professional exam validates technical expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Exam concepts you should understand for this exam include the ability to:  
